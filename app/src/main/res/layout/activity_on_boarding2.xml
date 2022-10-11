@@ -48,7 +48,7 @@
         android:id="@+id/button2"
         android:layout_width="198dp"
         android:layout_height="38dp"
-        android:layout_marginStart="106dp"
+        android:layout_marginStart="104dp"
         android:layout_marginTop="490dp"
         android:layout_marginBottom="203dp"
         android:background="@drawable/register"
@@ -56,7 +56,8 @@
         app:backgroundTint="#273568"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
 
     <Button
         android:id="@+id/button"
