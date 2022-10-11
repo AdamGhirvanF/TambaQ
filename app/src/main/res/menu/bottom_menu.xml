@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homepage"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home"
+        android:iconTint="#FF77CEFF"/>
+
+    <item
+        android:title="AturQ"
+        android:icon="@drawable/ic_aturq"
+        android:iconTint="#FFFFFFFF"
+        android:enabled="true"
+        />
+
+    <item
+        android:title="KebutuhanQ"
+        android:icon="@drawable/ic_kebutuhanq"
+        android:iconTint="#FFFFFFFF"/>
+
+    <item
+        android:title="EmberQ"
+        android:icon="@drawable/ic_emberq"
+        android:iconTint="#FFFFFFFF"/>
+
+    <item
+        android:title="PanenQ"
+        android:icon="@drawable/ic_panenq"
+        android:iconTint="#FFFFFFFF"/>
+</menu>
