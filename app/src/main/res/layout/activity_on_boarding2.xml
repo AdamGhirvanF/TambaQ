@@ -64,7 +64,7 @@
         android:layout_height="38dp"
         android:layout_marginStart="106dp"
         android:layout_marginTop="543dp"
-        android:background="@drawable/login"
+        android:background="@color/white"
         android:text="Sign Up"
         app:backgroundTint="@color/white"
         android:textColor="#273568"
