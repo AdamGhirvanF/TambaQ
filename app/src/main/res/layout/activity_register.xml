@@ -11,20 +11,20 @@
         android:id="@+id/imageView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="358dp"
+        android:layout_marginTop="52dp"
         android:layout_marginEnd="80dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6"
         app:srcCompat="@drawable/registerform_background" />
 
     <ImageView
         android:id="@+id/imageView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="288dp"
+        android:layout_marginTop="40dp"
         android:layout_marginEnd="80dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
         app:srcCompat="@drawable/registerform_background" />
 
     <TextView
@@ -80,7 +80,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"
         android:layout_marginEnd="68dp"
-        android:background="#FFFFFFF"
+        android:background="#FFFFFF"
         android:ems="15"
         android:fontFamily="@font/inter_regular"
         android:hint="Nama Lengkap"
@@ -120,8 +120,8 @@
         android:id="@+id/signupbutton"
         android:layout_width="110dp"
         android:layout_height="48dp"
-        android:layout_marginTop="56dp"
-        android:layout_marginEnd="232dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="240dp"
         android:backgroundTint="#273568"
         android:fontFamily="@font/inter_bold"
         android:text="Sign Up"
@@ -132,20 +132,20 @@
         android:id="@+id/imageView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="80dp"
-        android:layout_marginBottom="416dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="84dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/signupbutton"
         app:srcCompat="@drawable/signup_google" />
 
     <ImageView
         android:id="@+id/imageView10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="80dp"
-        android:layout_marginBottom="344dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="84dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView9"
         app:srcCompat="@drawable/signup_facebook" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
