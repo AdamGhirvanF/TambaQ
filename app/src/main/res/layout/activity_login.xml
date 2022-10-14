@@ -21,7 +21,7 @@
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/password"
         android:layout_width="355dp"
         android:layout_height="45dp"
         android:layout_marginStart="28dp"
@@ -32,10 +32,10 @@
         android:paddingLeft="30dp"
         android:textColor="#181059"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText2" />
+        app:layout_constraintTop_toBottomOf="@+id/email" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/nama"
         android:layout_width="355dp"
         android:layout_height="45dp"
         android:layout_marginStart="28dp"
@@ -49,7 +49,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/email"
         android:layout_width="355dp"
         android:layout_height="45dp"
         android:layout_marginStart="28dp"
@@ -60,10 +60,10 @@
         android:paddingLeft="30dp"
         android:textColor="#181059"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText3" />
+        app:layout_constraintTop_toBottomOf="@+id/nama" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonSignUp"
         android:layout_width="247dp"
         android:layout_height="58dp"
         android:layout_marginStart="82dp"
@@ -75,10 +75,10 @@
         android:textStyle="bold"
         app:backgroundTint="#181059"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText" />
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonSignUp"
         android:layout_width="347dp"
         android:layout_height="52dp"
         android:layout_marginStart="34dp"
@@ -95,13 +95,13 @@
         tools:ignore="DuplicateIds" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonSignUp"
         android:layout_width="347dp"
         android:layout_height="52dp"
         android:layout_marginStart="32dp"
         android:layout_marginBottom="100dp"
         android:background="@drawable/bg_input"
-        android:drawableLeft="@drawable/Facebook"
+        android:drawableLeft="@drawable/fb"
         android:shadowColor="#020202"
         android:text="Sign Up With Facebook"
         android:textColor="#181059"

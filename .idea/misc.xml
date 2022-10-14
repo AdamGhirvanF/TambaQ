@@ -3,19 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable/bg_header.xml" value="0.2975" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26272727272727275" />
-        <entry key="app/src/main/res/layout/activity_on_boarding2.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/bg_header.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/adamg/AndroidStudioProjects/TambaQ/app/src/main/res/drawable/login.xml" value="0.29" />
+        <entry key="..\:/Users/adamg/AndroidStudioProjects/TambaQ/app/src/main/res/drawable/register.xml" value="0.2275" />
+        <entry key="..\:/Users/adamg/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/adamg/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/adamg/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_on_boarding2.xml" value="0.3625" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/drawable/bg_button.xml" value="0.124" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/drawable/bg_input.xml" value="0.124" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/drawable/register.xml" value="0.2595" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/activity_on_boarding2.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/login2.xml" value="0.1" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/login3.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/adini/AndroidStudioProjects/TambaQ/app/src/main/res/layout/login_page.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/bg_header.xml" value="0.2975" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26272727272727275" />
+        <entry key="app/src/main/res/layout/activity_on_boarding2.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/bg_header.xml" value="0.20652173913043478" />
       </map>
     </option>
   </component>
